@@ -4,8 +4,8 @@
 # anki-1234-spacebar
 
 from aqt.reviewer import Reviewer
-from aqt import mw
 from typing import Literal
+#from aqt import mw
 
 #config = mw.addonManager.getConfig(__name__)
 
