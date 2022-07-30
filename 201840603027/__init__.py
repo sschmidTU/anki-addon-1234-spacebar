@@ -7,7 +7,7 @@ from aqt.reviewer import Reviewer
 from aqt import mw
 from typing import Literal
 
-config = mw.addonManager.getConfig(__name__)
+#config = mw.addonManager.getConfig(__name__)
 
 oldAnswerCard = Reviewer._answerCard
 
