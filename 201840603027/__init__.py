@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# anki-space-behaviour
-# Copyright (C) @viql
+# anki-1234-spacebar
 
 from aqt.reviewer import Reviewer
 from aqt import mw
